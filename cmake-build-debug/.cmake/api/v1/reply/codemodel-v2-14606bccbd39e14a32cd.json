@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ProyectoFinal_Programacion_III",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ProyectoFinal_Programacion_III::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProyectoFinal_Programacion_III-Debug-9fe9cbf1f26ceb5104ec.json",
+					"name" : "ProyectoFinal_Programacion_III",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/virrr/Programacion3/Proyecto Final/ProyectoFinal-Programacion-III/cmake-build-debug",
+		"source" : "C:/Users/virrr/Programacion3/Proyecto Final/ProyectoFinal-Programacion-III"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,3 @@
+C:/Users/virrr/Programacion3/Proyecto Final/ProyectoFinal-Programacion-III/cmake-build-debug/CMakeFiles/ProyectoFinal_Programacion_III.dir
+C:/Users/virrr/Programacion3/Proyecto Final/ProyectoFinal-Programacion-III/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/virrr/Programacion3/Proyecto Final/ProyectoFinal-Programacion-III/cmake-build-debug/CMakeFiles/rebuild_cache.dir
