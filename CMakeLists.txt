@@ -4,4 +4,4 @@ project(ProyectoFinal_Programacion_III)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(ProyectoFinal_Programacion_III
-        main.cpp)
+        main.cpp Articulos.h Archivos.cpp Archivos.h)

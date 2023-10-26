@@ -1,6 +1,15 @@
-#include <iostream>
-using namespace std; 
+#include "Estructuras/Lista.h"
+#include "Articulos.h"
+#include "Archivos.h"
 
-int main (){
-  cout << "Proyecto Final "<< endl; 
+#include <iostream>
+
+int main() {
+    Lista<Articulo> listaDeArticulos;
+
+    cargarArticulosDesdeCSV(listaDeArticulos, "articulos.csv");
+
+
+    return 0;
 }
+

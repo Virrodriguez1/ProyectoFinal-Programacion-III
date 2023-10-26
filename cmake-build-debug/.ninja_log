@@ -1,0 +1,7 @@
+# ninja log v5
+364	562	7198042176944945	ProyectoFinal_Programacion_III.exe	84ff720893d6b69e
+0	362	7198042174982160	CMakeFiles/ProyectoFinal_Programacion_III.dir/main.cpp.obj	409529d24257250d
+2	293	7199505969020275	build.ninja	f62cabff023b5a55
+6	514	7199506673977073	CMakeFiles/ProyectoFinal_Programacion_III.dir/main.cpp.obj	409529d24257250d
+6	538	7199511863363976	CMakeFiles/ProyectoFinal_Programacion_III.dir/Archivos.cpp.obj	da72a5e1de3c06dd
+539	713	7199511865104806	ProyectoFinal_Programacion_III.exe	1f5acf6c09de2dd7
